@@ -21,7 +21,7 @@ Plugin 'majutsushi/tagbar'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'Lokaltog/vim-easymotion'
 Plugin 'pangloss/vim-javascript'
-
+Plugin 'derekwyatt/vim-scala'
 
 
 " The following are examples of different formats supported.
