@@ -22,7 +22,7 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'Lokaltog/vim-easymotion'
 Plugin 'pangloss/vim-javascript'
 Plugin 'derekwyatt/vim-scala'
-
+Plugin 'flazz/vim-colorschemes'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
