@@ -23,6 +23,7 @@ Plugin 'Lokaltog/vim-easymotion'
 Plugin 'pangloss/vim-javascript'
 Plugin 'derekwyatt/vim-scala'
 Plugin 'flazz/vim-colorschemes'
+Plugin 'dart-lang/dart-vim-plugin'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
